@@ -1,6 +1,6 @@
 # Welcome to Ecoleta Mobile App 👋
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
-[![License: MIT Licence](https://img.shields.io/badge/License-MIT Licence-yellow.svg)](#)
+![License: MIT Licence](https://img.shields.io/badge/License-MIT Licence-yellow.svg)](#)
 
 > Projeto Open Source Desenvolvido na Next Level Week. Tem o objetivo de criar uma conexão entre empressas e/ou entidades que coletam resíduos (orgânicos e inorgânicos) a pessoas e entidades que necessitam descartar resíduos. 
 
